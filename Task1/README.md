@@ -14,7 +14,7 @@ This project is a React application that includes an advanced component named `U
 
 ## Installation
 
-To install and run the project locally, follow these steps:
+To install and run the project locally, follow these steps :
 
 1. **Clone the repository:**
 

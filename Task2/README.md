@@ -22,7 +22,7 @@ To install and run the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/fredrukundo/TEST-FRONT.git
+   git clone `https://github.com/fredrukundo/TEST-FRONT.git`
    cd Task2
    npm install
    npm run dev

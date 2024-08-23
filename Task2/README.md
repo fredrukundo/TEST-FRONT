@@ -1,7 +1,7 @@
 # Task 2: Redux Saga for Asynchronous Actions
 
 This project is a React application that uses Redux Saga to manage the state of a task list. The task list supports the following features:
-- Fetch the initial list of tasks from an API.
+- Fetch the initial list of tasks from an API
 - Add a new task to the list.
 - Update the status of a task.
 - Remove a task.
